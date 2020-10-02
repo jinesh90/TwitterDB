@@ -5,6 +5,6 @@ Twitter Live streaming.
 - `mkdir twitterLive`
 - `git init`
 - `git pull https://github.com/jinesh90/TwitterDB.git`
-- `echo "ELK_VERSION=6.2`
+- `echo "ELK_VERSION=6.8.12" >> .env`
 - `docker-compose build`
 - `docker-compose up`
